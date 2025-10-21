@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-ARGO_TOKEN="${ARGO_TOKEN:-}"
+ARGO_TOKEN="${ARGO_TOKEN:-eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiZWI5ZTU4NDgtMGJlNy00ZmIzLWI4ZjUtYzA2NWQzZDg2MTNmIiwicyI6Ik9EUTFNV1ptWmprdFlqazBPQzAwWmpBMkxUa3daak10WmprNVpHRm1PVGN3T0RNdyJ9}"
 
 # 1. init directory
 mkdir -p app/argo
